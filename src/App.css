@@ -1,0 +1,18 @@
+/* App.css */
+.main {
+    text-align: center;
+    margin-top:js 20px;
+    
+}
+  
+  .container {
+    margin: 20px;
+    display: inline-block;
+    width: 100%;
+
+  }
+  
+  input, button {
+    font-size: 16px;
+  }
+  
